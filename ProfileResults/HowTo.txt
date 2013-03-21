@@ -1,0 +1,23 @@
+How to export CSV profile
+*************************
+
+Here is one way of exporting your profiling results.
+
+Once your profiling results are available, you do:
+click on Incl Count Total so that functions are ordered by decreasing time
+(right click)->data->export all
+then export it with csv format (the only one available)
+
+Then, open microsoft excel.
+click on:
+data->from text->
+select your csv file
+then, select the option "delimiter" instead of "fixed width"(My excel is in french, I don't know the exact terms in english)
+click next
+uncheck tab and check coma
+next
+finish
+select insert data in new worksheet.
+Then you can save it in whatever format you find most convenient. As an example, I provided a html version of my profile in this folder.
+
+:)
