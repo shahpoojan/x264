@@ -18,6 +18,6 @@ uncheck tab and check coma
 next
 finish
 select insert data in new worksheet.
-Then you can save it in whatever format you find most convenient. As an example, I provided a html version of my profile in this folder.
+Then you can save it in whatever format you find most convenient. As an example, I provided a html version of my profile in this folder. You can view it using your web browser.
 
 :)
